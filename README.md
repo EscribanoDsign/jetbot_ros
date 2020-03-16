@@ -1,5 +1,5 @@
-# jetbot_ros
-ROS nodes and Gazebo model for NVIDIA JetBot with Jetson Nano
+# gplr2_ros
+ROS nodes and Gazebo model for GPLR2 fork of NVIDIA JetBot
 
 
 ## System Configuration
